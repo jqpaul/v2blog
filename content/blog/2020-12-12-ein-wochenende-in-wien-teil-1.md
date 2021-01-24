@@ -5,6 +5,9 @@ subtitle: ''
 date: 2020-08-26T22:00:00.000+00:00
 thumb_img_path: "/img/hofburg-titelbild.jpeg"
 content_img_path: "/img/hofburg-titelbild.jpeg"
+images: [
+  src: "/img/hofburg-titelbild.jpeg"
+]
 excerpt: Wenn ich an Wien denke, denke ich an Kaffeekultur, Sachertorte und Romy Schneider
   als Sissi. Die österreichische Hauptstadt hat allerdings weitaus mehr zu bieten.
 hide_header: false

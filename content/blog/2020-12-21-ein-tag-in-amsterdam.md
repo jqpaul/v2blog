@@ -5,6 +5,9 @@ subtitle: ''
 date: 2020-12-21 23:00:00 +0000
 thumb_img_path: "/img/titelbild-amsterdam-min.jpeg"
 content_img_path: "/img/titelbild-amsterdam-side-min.jpeg"
+images: [
+  src: "/img/titelbild-amsterdam-min.jpeg"
+]
 excerpt: 'Seit Jahren fahre ich einmal im Jahr mit meinem besten Freund für einen
   Tag nach Amsterdam. Hier findet ihr eine jahrelang perfektionierte Route durch die
   niederländische Hauptstadt. '

@@ -5,6 +5,9 @@ subtitle: ''
 date: 2020-11-30T23:00:00.000+00:00
 thumb_img_path: "/img/titelbild-recalling-a-roadtrip.png"
 content_img_path: "/img/titelbild-recalling-a-roadtrip.png"
+images: [
+  src: "/img/titelbild-recalling-a-roadtrip.png"
+]
 excerpt: 'From Denver to D.C.: North Platte'
 hide_header: false
 

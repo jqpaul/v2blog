@@ -5,8 +5,13 @@ subtitle: ''
 date: 2021-01-22 23:00:00 +0000
 thumb_img_path: "/img/florida-titelbild-main.jpg"
 content_img_path: "/img/florida-titelbild-side.jpg"
-excerpt: The Sunshine State has much more to offer than only a visit to Disneyland.
-  Let's take a closer look on what you should do while being in Florida!
+images: [
+  src: "/img/florida-titelbild-main.jpg"
+]
+images: [
+  src: "/img/florida-titelbild-side.jpg"
+]
+excerpt: The Sunshine State has much more to offer than only a visit to Disneyland.  Let's take a closer look on what you should do while being in Florida!
 hide_header: false
 
 ---

@@ -36,8 +36,8 @@ disableLanguages        = []
     favicon             = false
     svg                 = true
     faviconVersion      = "1"
-    msColor             = "#ffffff"
-    iOSColor            = "#ffffff"
+    msColor             = "#121414"
+    iOSColor            = "#121414"
 
   [params.header]
     navbarTitle         = "Ataraxis"
@@ -213,5 +213,4 @@ disableLanguages        = []
   researchgate          = ""
   keybase               = ""
   mastodon              = ""
-  # Email
   email                 = "antheapaul@protonmail.com"

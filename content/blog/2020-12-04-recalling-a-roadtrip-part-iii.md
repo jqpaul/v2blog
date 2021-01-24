@@ -5,6 +5,9 @@ subtitle: ''
 date: 2020-12-06 23:00:00 +0000
 thumb_img_path: "/img/titelbild-recalling-a-roadtrip.png"
 content_img_path: "/img/titelbild-recalling-a-roadtrip.png"
+images: [
+  src: "/img/titelbild-recalling-a-roadtrip.png"
+]
 excerpt: 'From Denver to D.C.: Chicago'
 hide_header: false
 

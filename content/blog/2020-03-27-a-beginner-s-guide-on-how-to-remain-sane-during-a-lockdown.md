@@ -5,6 +5,9 @@ subtitle: ''
 date: 2020-03-27T23:00:00.000+00:00
 thumb_img_path: "/img/lockdown-titelbild.jpg"
 content_img_path: "/img/lockdown-titelbild.jpg"
+images: [
+  src: "/img/lockdown-titelbild.jpg"
+]
 excerpt: Don’t get me wrong, I was willing to not leave my house on a Friday night
   long before this pandemic even started. But as things become more and more serious
   and uncertain, even I feel the need of some sort of stability and structure.

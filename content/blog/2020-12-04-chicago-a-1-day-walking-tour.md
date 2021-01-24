@@ -5,6 +5,9 @@ subtitle: ''
 date: 2020-12-05 23:00:00 +0000
 thumb_img_path: "/img/fb2cf4bc-d198-4a03-a7be-8230f9647667-ee678219-48c1-485a-9c6b-8797486f181f.jpeg"
 content_img_path: "/img/fb2cf4bc-d198-4a03-a7be-8230f9647667-ee678219-48c1-485a-9c6b-8797486f181f.jpeg"
+images: [
+  src: "/img/fb2cf4bc-d198-4a03-a7be-8230f9647667-ee678219-48c1-485a-9c6b-8797486f181f.jpeg"
+]
 excerpt: When I roadtripped across the country, Chicago was one of the most anticipated
   stops on the route. Although I stayed only for a couple of hours in the city, I
   want to share with you how to make the most out of this time.

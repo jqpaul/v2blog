@@ -5,6 +5,9 @@ subtitle: ''
 date: 2020-12-10T23:00:00.000+00:00
 thumb_img_path: "/img/white-house_titelbild.jpeg"
 content_img_path: "/img/white-house.jpeg"
+images: [
+  src: "/img/white-house_titelbild.jpeg"
+]
 excerpt: With family living close to the U.S. capital, I’ve been in D.C. at least
   four times, by now, spending my days strolling around the city and seeing most of
   the must-see places. Here are my top 10 attractions in and around Washington, D.C.

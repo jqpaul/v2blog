@@ -5,6 +5,9 @@ subtitle: ''
 date: 2020-12-01 23:00:00 +0000
 thumb_img_path: "/img/lookout_titelbild.jpeg"
 content_img_path: "/img/lookout.jpeg"
+images: [
+  src: "/img/lookout_titelbild.jpeg"
+]
 excerpt: 'I’ve said it once, I’ll say it a million times: I’d chose mountains over
   the ocean any time. And this love comes from visiting the Rocky Mountains so often
   in the last couple of years.'

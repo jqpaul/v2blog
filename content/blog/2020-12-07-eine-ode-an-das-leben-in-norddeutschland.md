@@ -5,6 +5,9 @@ subtitle: ''
 date: 2020-12-07 23:00:00 +0000
 thumb_img_path: "/img/img_9689_titelbild.jpeg"
 content_img_path: "/img/img_9689.jpeg"
+images: [
+  src: "/img/img_9689_titelbild.jpeg"
+]
 excerpt: ''
 hide_header: false
 

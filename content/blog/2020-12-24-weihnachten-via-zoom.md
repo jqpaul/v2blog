@@ -5,6 +5,9 @@ subtitle: ''
 date: 2020-12-24T23:00:00.000+00:00
 thumb_img_path: "/img/titelbild-weihnachten.jpeg"
 content_img_path: "/img/titelbild-weihnachten-side.jpeg"
+images: [
+  src: "/img/titelbild-weihnachten.jpeg"
+]
 excerpt: 'Hätte mir im Februar jemand erzählt, ich würde meine Familie dieses Jahr
   zu den Festtagen wegen eines Virus nicht sehen können, ich hätte es vermutlich nicht
   geglaubt. Und doch sind wir nun hier: Weihnachten 2020 – digital.'

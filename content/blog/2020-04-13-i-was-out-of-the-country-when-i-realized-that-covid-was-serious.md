@@ -5,6 +5,9 @@ subtitle: ''
 date: 2020-04-13T22:00:00.000+00:00
 thumb_img_path: "/img/titelbild1.jpeg"
 content_img_path: "/img/titelbild1.jpeg"
+images: [
+  src: "/img/titelbild1.jpeg"
+]
 excerpt: On March 11 in boarded a plane to Budapest, planning to stay for a week.
   On March 15, Hungary closed its borders.
 hide_header: false

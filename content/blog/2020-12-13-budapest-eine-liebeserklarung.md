@@ -5,6 +5,9 @@ subtitle: ''
 date: 2020-11-03 23:00:00 +0000
 thumb_img_path: "/img/titelbild-budapest.jpeg"
 content_img_path: "/img/titelbild-budapest.jpeg"
+images: [
+  src: "/img/titelbild-budapest.jpeg"
+]
 excerpt: Ach enyém drágám, ich weiß gar nicht, wo ich anfangen soll.
 hide_header: false
 

@@ -5,6 +5,9 @@ subtitle: ''
 date: 2021-01-07 23:00:00 +0000
 thumb_img_path: "/img/view-harz.jpeg"
 content_img_path: "/img/view-harz.jpeg"
+images: [
+  src: "/img/view-harz.jpeg"
+]
 excerpt: 'Believe it or not: this winter wonderland is only a 1.5 hour drive away
   from my home. Let me tell you about my daytrip to the Harz. '
 hide_header: false

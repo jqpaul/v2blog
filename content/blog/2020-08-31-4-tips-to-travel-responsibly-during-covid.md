@@ -5,6 +5,9 @@ subtitle: ''
 date: 2020-08-31T22:00:00.000+00:00
 thumb_img_path: "/img/titelbild_prag.jpeg"
 content_img_path: "/img/titelbild_prag.jpeg"
+images: [
+  src: "/img/titelbild_prag.jpeg"
+]
 excerpt: Yes, I travelled during a global pandemic.  But, believe me, it was responsible.
   Let me tell you why.
 hide_header: false

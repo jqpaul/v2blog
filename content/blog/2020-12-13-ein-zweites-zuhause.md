@@ -5,6 +5,9 @@ subtitle: ''
 date: 2020-12-13 23:00:00 +0000
 thumb_img_path: "/img/thea-teneriffa.jpeg"
 content_img_path: "/img/thea-teneriffa.jpeg"
+images: [
+  src: "/img/thea-teneriffa.jpeg"
+]
 excerpt: Von Paella, peregrinar und dem Paradies im atlantischen Ozean
 hide_header: false
 

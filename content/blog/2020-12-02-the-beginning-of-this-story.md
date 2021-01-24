@@ -5,6 +5,9 @@ subtitle: ''
 date: 2019-04-30T22:00:00.000+00:00
 thumb_img_path: "/img/img_5574_titelbild.jpeg"
 content_img_path: "/img/img_5574.jpeg"
+images: [
+  src: "/img/img_5574_titelbild.jpeg"
+]
 excerpt: An introduction to what this blog will be about.
 hide_header: false
 

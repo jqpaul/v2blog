@@ -5,6 +5,9 @@ subtitle: ''
 date: 2019-09-10T22:00:00.000+00:00
 thumb_img_path: "/img/dosen-goteborg2.jpeg"
 content_img_path: "/img/dosen-goteborg.jpeg"
+images: [
+  src: "/img/dosen-goteborg2.jpeg"
+]
 excerpt: Ferrying to Sweden's second largest city
 hide_header: false
 

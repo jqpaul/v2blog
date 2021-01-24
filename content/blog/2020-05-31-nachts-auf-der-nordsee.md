@@ -5,6 +5,9 @@ subtitle: ''
 date: 2020-05-31T22:00:00.000+00:00
 thumb_img_path: "/img/sonnenuntergang1.jpeg"
 content_img_path: "/img/sonnenuntergang.jpeg"
+images: [
+  src: "/img/sonnenuntergang1.jpeg"
+]
 excerpt: Auszüge aus einem Logbuch
 hide_header: false
 

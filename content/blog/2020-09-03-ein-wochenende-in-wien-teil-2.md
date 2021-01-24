@@ -5,6 +5,9 @@ subtitle: ''
 date: 2020-09-03T22:00:00.000+00:00
 thumb_img_path: "/img/palmenhaus.jpeg"
 content_img_path: "/img/palmenhaus.jpeg"
+images: [
+  src: "/img/palmenhaus.jpeg"
+]
 excerpt: 'Nach einem ersten Tag voller Sightseeing in und um die Wiener Innenstadt,
   machte sich am zweiten Tag bereits der Muskelkater in den Beinen breit. Wir entschieden
   uns trotzdem erneut für die Fahrräder und strampelten also in Richtung unseres ersten

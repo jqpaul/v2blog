@@ -5,6 +5,9 @@ subtitle: ''
 date: 2020-10-31T23:00:00.000+00:00
 thumb_img_path: "/img/oslo-opera.jpg"
 content_img_path: "/img/oslo-opera.jpg"
+images: [
+  src: "/img/oslo-opera.jpg"
+]
 excerpt: A One Day Walking Tour
 hide_header: false
 
