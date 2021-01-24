@@ -47,17 +47,17 @@ disableLanguages        = []
     languageMenu        = true
 
   [params.intro]
-    header                = "Ataraxis"
-    paragraph             = "The absence of mental stress or anxiety"
+    header                = ""
+    paragraph             = ""
     rssIntro              = true
     socialIntro           = true
     hideWhenSingleColumn  = false
     alwaysOnHomepage      = false
 
     [params.intro.pic]
-      src                 = "img/main/logo.jpg"
-      shape               = "circle"
-      width               = ""
+      src                 = "img/main/ataraxis3.png"
+      shape               = "square"
+      width               = "250"
       alt                 = "Ataraxis"
 
   [params.sidebar]
