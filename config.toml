@@ -55,7 +55,7 @@ disableLanguages        = []
     alwaysOnHomepage      = false
 
     [params.intro.pic]
-      src                 = "img/main/ataraxis3.png"
+      src                 = "img/main/ataraxis4.png"
       shape               = "square"
       width               = "250"
       alt                 = "Ataraxis"
